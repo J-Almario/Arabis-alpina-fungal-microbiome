@@ -1,0 +1,2 @@
+# Arabis-alpina-fungal-microbiome
+Arabis alpina (Brassicaceae) is a non-mycorrhizal perennial herb which grows in alpine environments including low P soils. The aim of this study was to explore the root fungal microbiome of A. alpina and its potential to promote plant P acquisition and growth in low P conditions. We performed Illumina-based amplicon sequencing on the fungal taxonomical marker ITS2 to describe the fungal microbiome in A. alpina rhizosphere and root endosphere under greenhouse, garden and natural conditions. 
